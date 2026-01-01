@@ -1,3 +1,8 @@
+# EXPERIMENTAL BRANCH
+I am resurrecting this project (like a shambling corpse), with the express purpose of making it work with [OpenStreetMap](https://www.openstreetmap.org/). I need a map embedding solution that is not connected to Google in any way. 
+
+I have every intention of publishing this as a public Jekyll plugin as soon as it is fit for my purposes.
+
 ## NOT MAINTAINED
 
 I hope this helps you, but I have to be honest: I'm not really working on this anymore, and so I can't rule out that there are things that don't work right etc etc etc. If you want to contribute or fork or anything, please do! But I just don't really have the bandwidth for bugfixes, let alone feature requests! Sorry :(.
